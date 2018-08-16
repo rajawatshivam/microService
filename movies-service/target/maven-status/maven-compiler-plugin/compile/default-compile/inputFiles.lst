@@ -1,0 +1,10 @@
+/home/user/workspace/2PizzaTeamMicro/MicroServices/movies-service/src/main/java/com/stackroute/movieservice/controller/MovieController.java
+/home/user/workspace/2PizzaTeamMicro/MicroServices/movies-service/src/main/java/com/stackroute/movieservice/services/MovieServiceImpl.java
+/home/user/workspace/2PizzaTeamMicro/MicroServices/movies-service/src/main/java/com/stackroute/movieservice/MovieserviceApplication.java
+/home/user/workspace/2PizzaTeamMicro/MicroServices/movies-service/src/main/java/com/stackroute/movieservice/swagger/SwaggerConfig.java
+/home/user/workspace/2PizzaTeamMicro/MicroServices/movies-service/src/main/java/com/stackroute/movieservice/exceptions/MovieAlreadyExistsException.java
+/home/user/workspace/2PizzaTeamMicro/MicroServices/movies-service/src/main/java/com/stackroute/movieservice/services/MovieService.java
+/home/user/workspace/2PizzaTeamMicro/MicroServices/movies-service/src/main/java/com/stackroute/movieservice/domain/Movie.java
+/home/user/workspace/2PizzaTeamMicro/MicroServices/movies-service/src/main/java/com/stackroute/movieservice/exceptions/MovieNotFoundException.java
+/home/user/workspace/2PizzaTeamMicro/MicroServices/movies-service/src/main/java/com/stackroute/movieservice/configuration/BootStrapData.java
+/home/user/workspace/2PizzaTeamMicro/MicroServices/movies-service/src/main/java/com/stackroute/movieservice/repository/MovieRepository.java
